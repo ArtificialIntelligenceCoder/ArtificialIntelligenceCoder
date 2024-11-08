@@ -6,4 +6,4 @@ best lang. The days of writing inferior php code in in order to have constant wo
 
 The bat files you see like xxcc.bat and delmainrs.bat in the /src dir are just for my own use, you can delete them. The bat files make dev on windows desktop super easy and fast. Most code is made to be cross platform- specifically for linux. 
 
-Coders used to have power over others. With AI, the average person is empowered to make apps. When a lang that is objectively superior to Rust is made (probably made by AI) i will galdly switch. Till then- for now- today- Rust lang is god. 
+Coders used to have power over others. With AI, the average person is empowered to make apps. When a lang that is objectively superior to Rust is made (probably made by AI) i will gladly change langs. Till then- for now- today- Rust lang is god. 
