@@ -10,7 +10,7 @@ best lang. The days of writing inferior php code in in order to have constant wo
 The bat files you see like xxcc.bat and delmainrs.bat in the /src dir are just for my own use, you can delete them. The bat files make dev on windows desktop super easy and fast. Most code is made to be cross platform- specifically for linux. 
 
 The biggest scammers use click bait video titles and nonsense that goes in circles- for example the fav lang of the day. All of that is trying to keep the scam going. The scam only works on gullible people. One click bait title, one coding video that
-makes you stupider should tell you the "creator" is a scammer and not out to help you one bit. Duhhhh. I haven't seen a prime or theo vid in years. No time for nonsense. Learn to discern!! 
+makes you stupider should tell you the "creator" is a scammer and not out to help you one bit. Duhhhh. Learn to discern!! 
 
 # Make coding great again. Use AI to write code for you :) 
 
