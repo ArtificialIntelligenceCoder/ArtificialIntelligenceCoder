@@ -1,5 +1,7 @@
 ![1](https://github.com/user-attachments/assets/a82869d6-2fab-483f-b6aa-31b9c37c1ced)
 
+# "knowledge is free"
+
 Coders used to have power over others. With AI, the average person is empowered to make apps. When a lang that is objectively superior to Rust is made (probably made by AI) i will gladly change langs. Till then- for now- today- Rust lang is god. 
 
 AI is better at Rust coding than you are. SO use the objectively best lang- Rust- and let AI code for you. Bragging that you know how to code in python or go or php is just silly. Apparently you are not wise enough to use the objectively
