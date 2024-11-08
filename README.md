@@ -24,7 +24,7 @@ Rust eliminates these problems at compile time, enforcing strict borrowing, owne
 
 Beyond security, Rust delivers exceptional performance due to its systems-level control, with zero-cost abstractions that allow developers to write code that is both expressive and efficient. Unlike garbage-collected languages, Rust allows for predictable performance without runtime pauses. The language also comes with a rich ecosystem and tools that facilitate concurrent programming and modern software design—all while keeping safety as a top priority.
 
-So, if one isn't concerned with security, safety, and performance, one might question the purpose of writing code at all. In the rapidly evolving world of technology, there's no reason to settle for less. Rust is objectively superior as of today, and until another language rises to offer the same level of security, efficiency, and developer experience, Rust stands alone as the best choice for building reliable software.
+# So, if one isn't concerned with security, safety, and performance, one might question the purpose of writing code at all. In the rapidly evolving world of technology, there's no reason to settle for less. Rust is objectively superior as of today, and until another language rises to offer the same level of security, efficiency, and developer experience, Rust stands alone as the best choice for building reliable software.
 
 
 
