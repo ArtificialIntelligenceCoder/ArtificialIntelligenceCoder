@@ -7,4 +7,6 @@ best lang. The days of writing inferior php code in in order to have constant wo
 
 The bat files you see like xxcc.bat and delmainrs.bat in the /src dir are just for my own use, you can delete them. The bat files make dev on windows desktop super easy and fast. Most code is made to be cross platform- specifically for linux. 
 
+# Make coding great again. Use AI to write code for you :) 
+
 
